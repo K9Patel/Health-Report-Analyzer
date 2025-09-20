@@ -55,7 +55,7 @@
             fontSize: "1rem",
           }}
         >
-          ☀
+        ☀️
         </span>
         <span
           style={{
